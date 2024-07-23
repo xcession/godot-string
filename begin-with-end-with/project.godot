@@ -11,10 +11,16 @@ config_version=5
 [application]
 
 config/name="String Demo - Begin with, End with"
+config/tags=PackedStringArray("string")
 run/main_scene="res://main.tscn"
 config/features=PackedStringArray("4.2")
 boot_splash/show_image=false
 config/icon="res://icon.svg"
+
+[display]
+
+window/size/viewport_width=720
+window/size/viewport_height=400
 
 [filesystem]
 

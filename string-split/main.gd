@@ -11,4 +11,3 @@ func _ready():
 		number.append(numbers[i])
 	
 	print(number)
-

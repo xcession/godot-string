@@ -33,4 +33,3 @@ func _ready():
 		print("YES")
 	else:
 		print("NO")
-
